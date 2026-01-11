@@ -1,0 +1,10 @@
+{
+  "name": "ISP Billing Pro",
+  "description": "Professional ISP and Cable Internet Billing Management system. High-performance, secure, and ready for global deployment.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "environmentVariables": [
+    "API_KEY"
+  ]
+}
